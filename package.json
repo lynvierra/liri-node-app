@@ -1,0 +1,20 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "Liri Node App",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lynvierra/liri-node-app.git"
+  },
+  "keywords": [],
+  "author": "Lyn Vierra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lynvierra/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/lynvierra/liri-node-app#readme"
+}
